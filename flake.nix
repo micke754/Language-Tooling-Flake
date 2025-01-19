@@ -36,7 +36,7 @@
         vale-ls
         vale
         yaml-language-server
-        lua-langauge-server
+        lua-language-server
         stylua
 
       ];
