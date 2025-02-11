@@ -37,6 +37,7 @@
         yaml-language-server
         lua-language-server
         stylua
+        zls
 
       ];
 
