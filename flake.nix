@@ -22,13 +22,12 @@
 
       paths = with pkgs; [
 
-        carapace
         pipx
       	bun
         nil
         sqlfluff
         ansible-language-server
-        # helix-gpt
+        deno
         markdown-oxide
         prettierd
         sqls
