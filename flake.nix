@@ -22,21 +22,22 @@
 
       paths = with pkgs; [
 
-        pipx
-      	bun
-        nil
-        sqlfluff
         ansible-language-server
+      	bun
         deno
-        markdown-oxide
-        prettierd
-        sqls
-        taplo
-        vale-ls
-        vale
-        yaml-language-server
+        lsp-ai
         lua-language-server
+        markdown-oxide
+        nil
+        pipx
+        prettierd
+        sqlfluff
+        sqls
         stylua
+        taplo
+        vale
+        vale-ls
+        yaml-language-server
         zls
 
       ];
