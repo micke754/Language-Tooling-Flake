@@ -23,6 +23,8 @@
       paths = with pkgs; [
 
         ansible-language-server
+        clang-tools
+        ccls
       	bun
         deno
         lsp-ai
