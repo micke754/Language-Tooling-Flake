@@ -32,6 +32,7 @@
         markdown-oxide
         nil
         pipx
+        powershell
         prettierd
         sqlfluff
         sqls
