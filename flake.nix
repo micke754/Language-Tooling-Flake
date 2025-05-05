@@ -28,7 +28,6 @@
       	bun
         deno
         harper
-        lsp-ai
         lua-language-server
         markdown-oxide
         nil
