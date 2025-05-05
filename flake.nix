@@ -28,8 +28,8 @@
       	bun
         deno
         harper
+        lsp-ai
         lua-language-server
-        lldb_20
         markdown-oxide
         nil
         pipx
