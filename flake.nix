@@ -23,6 +23,7 @@
       paths = with pkgs; [
 
         # Languages
+        libgcc
         powershell
         zig
 
