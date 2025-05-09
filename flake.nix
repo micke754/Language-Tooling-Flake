@@ -22,22 +22,27 @@
 
       paths = with pkgs; [
 
+        # Languages
+        powershell
+        zig
+
+        # Tooling
         ansible-language-server
-        clang-tools
+        bun
         ccls
-      	bun
+      	clang-tools
         deno
         harper
         lua-language-server
         markdown-oxide
         nil
         pipx
-        powershell
         prettierd
         sqlfluff
         sqls
         stylua
         taplo
+        uv
         vale
         vale-ls
         yaml-language-server
