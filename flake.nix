@@ -39,6 +39,7 @@
         nil
         pipx
         prettierd
+        shfmt
         sqlfluff
         sqls
         stylua
