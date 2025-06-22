@@ -32,7 +32,12 @@
         bun
         ccls
       	clang-tools
+        delve
         deno
+        golangci-lint
+        golangci-lint-langserver
+        gopls
+        gotools
         harper
         lua-language-server
         markdown-oxide
