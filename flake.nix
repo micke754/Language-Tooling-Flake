@@ -38,6 +38,7 @@
         nil
         pipx
         prettierd
+        simple-completion-language-server
         sqlfluff
         sqls
         stylua
