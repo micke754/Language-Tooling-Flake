@@ -24,6 +24,7 @@
 
         # Languages
         libgcc
+        nodejs_20
         powershell
         zig
 
