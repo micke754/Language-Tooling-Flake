@@ -23,6 +23,7 @@
       paths = with pkgs; [
 
         # Languages
+        nodejs_20
         powershell
         zig
 
