@@ -23,6 +23,7 @@
       paths = with pkgs; [
 
         # Languages
+        go
         nodejs_20
         powershell
         zig
@@ -33,6 +34,7 @@
         ccls
       	clang-tools
         deno
+        gotools
         harper
         lua-language-server
         markdown-oxide
