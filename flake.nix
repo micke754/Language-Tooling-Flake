@@ -46,6 +46,7 @@
         pipx
         prettierd
         shfmt
+        superhtml
         sqlfluff
         sqls
         stylua
@@ -53,6 +54,7 @@
         uv
         vale
         vale-ls
+        vscode-langservers-extracted
         yaml-language-server
         zls
 
