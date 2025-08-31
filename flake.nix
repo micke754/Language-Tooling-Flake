@@ -27,6 +27,7 @@
         nodejs_20
         powershell
         zig
+        racket-minimal
 
         # Tooling
         ansible-language-server
