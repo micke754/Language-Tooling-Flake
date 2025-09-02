@@ -28,6 +28,7 @@
         powershell
         zig
         racket-minimal
+        fontconfig # dependency for racket-langserver
 
         # Tooling
         ansible-language-server
