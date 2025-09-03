@@ -26,6 +26,7 @@
         libgcc
         nodejs_20
         powershell
+        typst
         zig
 
         # Tooling
@@ -46,11 +47,13 @@
         pipx
         prettierd
         shfmt
-        superhtml
         sqlfluff
         sqls
         stylua
+        superhtml
         taplo
+        tinymist
+        typstyle
         uv
         vale
         vale-ls
