@@ -26,9 +26,10 @@
         go
         nodejs_20
         powershell
-        zig
         racket-minimal
-        fontconfig # dependency for racket-langserver
+        typst
+        zig
+
 
         # Tooling
         ansible-language-server
@@ -48,6 +49,8 @@
         sqls
         stylua
         taplo
+        tinymist
+        typstyle
         uv
         vale
         vale-ls
