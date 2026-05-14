@@ -27,7 +27,7 @@
         nodejs_20
         powershell
         typst
-        zig
+        # zig
 
         # Tooling
         ansible-language-server
